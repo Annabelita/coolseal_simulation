@@ -1,0 +1,2155 @@
+                                                       ---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+13.0% of the streets where colored.
+Total duration: 3.5781810000000003s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+9.0% of the streets where colored.
+Total duration: 2.218158s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+14.000000000000002% of the streets where colored.
+Total duration: 3.3946879999999995s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+Step: 210 -------- Percentage of colored Streets: 26.0%
+Step: 220 -------- Percentage of colored Streets: 27.0%
+Step: 230 -------- Percentage of colored Streets: 28.0%
+Step: 240 -------- Percentage of colored Streets: 29.0%
+Step: 250 -------- Percentage of colored Streets: 30.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+31.0% of the streets where colored.
+Total duration: 7.4862660000000005s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+14.000000000000002% of the streets where colored.
+Total duration: 3.422654999999999s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+11.0% of the streets where colored.
+Total duration: 2.687277999999999s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+########################### Ant died!
+########################### remaining ants: 0
+Step: 110 -------- Percentage of colored Streets: 13.0%
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+13.0% of the streets where colored.
+Total duration: 3.2379299999999986s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+16.0% of the streets where colored.
+Total duration: 3.778025000000003s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+25.0% of the streets where colored.
+Total duration: 6.0077159999999985s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+15.0% of the streets where colored.
+Total duration: 3.5878450000000015s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+22.0% of the streets where colored.
+Total duration: 5.323391000000001s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+22.0% of the streets where colored.
+Total duration: 5.4674929999999975s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+11.0% of the streets where colored.
+Total duration: 2.700021999999997s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+9.0% of the streets where colored.
+Total duration: 2.287247999999998s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+14.000000000000002% of the streets where colored.
+Total duration: 3.3920770000000005s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+18.0% of the streets where colored.
+Total duration: 4.4116710000000054s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+20.0% of the streets where colored.
+Total duration: 4.76182s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+14.000000000000002% of the streets where colored.
+Total duration: 3.361059999999995s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+5.0% of the streets where colored.
+Total duration: 1.1512260000000083s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+25.0% of the streets where colored.
+Total duration: 6.119123000000002s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+Step: 210 -------- Percentage of colored Streets: 26.0%
+Step: 220 -------- Percentage of colored Streets: 27.0%
+Step: 230 -------- Percentage of colored Streets: 28.0%
+Step: 240 -------- Percentage of colored Streets: 29.0%
+Step: 250 -------- Percentage of colored Streets: 30.0%
+Step: 260 -------- Percentage of colored Streets: 32.0%
+Step: 270 -------- Percentage of colored Streets: 33.0%
+Step: 280 -------- Percentage of colored Streets: 34.0%
+Step: 290 -------- Percentage of colored Streets: 35.0%
+Step: 300 -------- Percentage of colored Streets: 37.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+38.0% of the streets where colored.
+Total duration: 9.09498400000001s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+21.0% of the streets where colored.
+Total duration: 5.008983000000001s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+16.0% of the streets where colored.
+Total duration: 3.9470170000000024s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+########################### Ant died!
+########################### remaining ants: 0
+Step: 200 -------- Percentage of colored Streets: 24.0%
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+24.0% of the streets where colored.
+Total duration: 5.891393000000008s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+Step: 210 -------- Percentage of colored Streets: 26.0%
+Step: 220 -------- Percentage of colored Streets: 27.0%
+Step: 230 -------- Percentage of colored Streets: 28.0%
+Step: 240 -------- Percentage of colored Streets: 29.0%
+Step: 250 -------- Percentage of colored Streets: 30.0%
+Step: 260 -------- Percentage of colored Streets: 32.0%
+Step: 270 -------- Percentage of colored Streets: 33.0%
+Step: 280 -------- Percentage of colored Streets: 34.0%
+Step: 290 -------- Percentage of colored Streets: 35.0%
+Step: 300 -------- Percentage of colored Streets: 37.0%
+Step: 310 -------- Percentage of colored Streets: 38.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+39.0% of the streets where colored.
+Total duration: 9.380690000000001s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+6.0% of the streets where colored.
+Total duration: 1.3724569999999972s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+16.0% of the streets where colored.
+Total duration: 3.862958000000006s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+11.0% of the streets where colored.
+Total duration: 2.685776000000004s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+########################### Ant died!
+########################### remaining ants: 0
+Step: 200 -------- Percentage of colored Streets: 24.0%
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+24.0% of the streets where colored.
+Total duration: 5.926039000000003s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+19.0% of the streets where colored.
+Total duration: 4.561092999999985s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+Step: 210 -------- Percentage of colored Streets: 26.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+26.0% of the streets where colored.
+Total duration: 6.444714000000005s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+15.0% of the streets where colored.
+Total duration: 3.8040689999999984s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+Step: 210 -------- Percentage of colored Streets: 26.0%
+Step: 220 -------- Percentage of colored Streets: 27.0%
+Step: 230 -------- Percentage of colored Streets: 28.0%
+Step: 240 -------- Percentage of colored Streets: 29.0%
+Step: 250 -------- Percentage of colored Streets: 30.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+31.0% of the streets where colored.
+Total duration: 7.53986900000001s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+12.0% of the streets where colored.
+Total duration: 2.9478289999999845s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+Step: 210 -------- Percentage of colored Streets: 26.0%
+Step: 220 -------- Percentage of colored Streets: 27.0%
+Step: 230 -------- Percentage of colored Streets: 28.0%
+Step: 240 -------- Percentage of colored Streets: 29.0%
+Step: 250 -------- Percentage of colored Streets: 30.0%
+Step: 260 -------- Percentage of colored Streets: 32.0%
+Step: 270 -------- Percentage of colored Streets: 33.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+33.0% of the streets where colored.
+Total duration: 8.140792000000005s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+9.0% of the streets where colored.
+Total duration: 2.700778000000014s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+16.0% of the streets where colored.
+Total duration: 4.749795000000006s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+Step: 210 -------- Percentage of colored Streets: 26.0%
+Step: 220 -------- Percentage of colored Streets: 27.0%
+Step: 230 -------- Percentage of colored Streets: 28.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+28.000000000000004% of the streets where colored.
+Total duration: 6.871849999999995s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+25.0% of the streets where colored.
+Total duration: 6.050730000000016s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+Step: 210 -------- Percentage of colored Streets: 26.0%
+Step: 220 -------- Percentage of colored Streets: 27.0%
+Step: 230 -------- Percentage of colored Streets: 28.0%
+Step: 240 -------- Percentage of colored Streets: 29.0%
+Step: 250 -------- Percentage of colored Streets: 30.0%
+Step: 260 -------- Percentage of colored Streets: 32.0%
+Step: 270 -------- Percentage of colored Streets: 33.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+34.0% of the streets where colored.
+Total duration: 8.227288999999985s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+########################### Ant died!
+########################### remaining ants: 0
+Step: 100 -------- Percentage of colored Streets: 12.0%
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+12.0% of the streets where colored.
+Total duration: 2.950993000000011s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+6.0% of the streets where colored.
+Total duration: 1.4050860000000114s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+11.0% of the streets where colored.
+Total duration: 2.5913369999999816s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+5.0% of the streets where colored.
+Total duration: 1.317641999999978s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+6.0% of the streets where colored.
+Total duration: 1.655495000000002s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+Step: 210 -------- Percentage of colored Streets: 26.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+26.0% of the streets where colored.
+Total duration: 7.619572000000005s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+13.0% of the streets where colored.
+Total duration: 3.436066000000011s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+17.0% of the streets where colored.
+Total duration: 4.235014999999976s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+5.0% of the streets where colored.
+Total duration: 1.397642999999988s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+21.0% of the streets where colored.
+Total duration: 5.807275000000004s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+7.000000000000001% of the streets where colored.
+Total duration: 1.8881839999999954s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+10.0% of the streets where colored.
+Total duration: 2.4593010000000106s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+Step: 210 -------- Percentage of colored Streets: 26.0%
+Step: 220 -------- Percentage of colored Streets: 27.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+28.000000000000004% of the streets where colored.
+Total duration: 7.657927999999998s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+10.0% of the streets where colored.
+Total duration: 2.52267999999998s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+9.0% of the streets where colored.
+Total duration: 2.2058739999999943s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+Step: 210 -------- Percentage of colored Streets: 26.0%
+Step: 220 -------- Percentage of colored Streets: 27.0%
+Step: 230 -------- Percentage of colored Streets: 28.0%
+Step: 240 -------- Percentage of colored Streets: 29.0%
+Step: 250 -------- Percentage of colored Streets: 30.0%
+Step: 260 -------- Percentage of colored Streets: 32.0%
+Step: 270 -------- Percentage of colored Streets: 33.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+34.0% of the streets where colored.
+Total duration: 8.250473999999997s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+12.0% of the streets where colored.
+Total duration: 2.9990140000000167s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+23.0% of the streets where colored.
+Total duration: 6.5532460000000015s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+25.0% of the streets where colored.
+Total duration: 6.582888999999994s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+9.0% of the streets where colored.
+Total duration: 2.138503999999955s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+Step: 210 -------- Percentage of colored Streets: 26.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+26.0% of the streets where colored.
+Total duration: 7.300768000000005s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+6.0% of the streets where colored.
+Total duration: 1.4980340000000183s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+25.0% of the streets where colored.
+Total duration: 6.455845000000011s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+Step: 210 -------- Percentage of colored Streets: 26.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+26.0% of the streets where colored.
+Total duration: 6.935235999999975s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+Step: 150 -------- Percentage of colored Streets: 18.0%
+Step: 160 -------- Percentage of colored Streets: 19.0%
+Step: 170 -------- Percentage of colored Streets: 21.0%
+Step: 180 -------- Percentage of colored Streets: 22.0%
+Step: 190 -------- Percentage of colored Streets: 23.0%
+Step: 200 -------- Percentage of colored Streets: 24.0%
+Step: 210 -------- Percentage of colored Streets: 26.0%
+Step: 220 -------- Percentage of colored Streets: 27.0%
+Step: 230 -------- Percentage of colored Streets: 28.0%
+########################### Ant died!
+########################### remaining ants: 0
+Step: 240 -------- Percentage of colored Streets: 29.0%
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+28.999999999999996% of the streets where colored.
+Total duration: 8.063209000000029s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+Step: 120 -------- Percentage of colored Streets: 15.0%
+Step: 130 -------- Percentage of colored Streets: 16.0%
+Step: 140 -------- Percentage of colored Streets: 17.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+17.0% of the streets where colored.
+Total duration: 5.284742999999992s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+
+
+
+---------------------- START OF SIMULATION ----------------------------
+Simulation started.
+Walk: SimpleWalk
+Amount of ants: 1
+
+
+Step: 10 -------- Percentage of colored Streets: 1.0%
+Step: 20 -------- Percentage of colored Streets: 2.0%
+Step: 30 -------- Percentage of colored Streets: 4.0%
+Step: 40 -------- Percentage of colored Streets: 5.0%
+Step: 50 -------- Percentage of colored Streets: 6.0%
+Step: 60 -------- Percentage of colored Streets: 7.0%
+Step: 70 -------- Percentage of colored Streets: 8.0%
+Step: 80 -------- Percentage of colored Streets: 10.0%
+Step: 90 -------- Percentage of colored Streets: 11.0%
+Step: 100 -------- Percentage of colored Streets: 12.0%
+Step: 110 -------- Percentage of colored Streets: 13.0%
+########################### Ant died!
+########################### remaining ants: 0
+End of Simulation. All ants dead.
+Status: Not all streets could be colored completely.
+14.000000000000002% of the streets where colored.
+Total duration: 4.33071799999999s.
+---------------------- END OF SIMULATION ----------------------------
+
+
+ENDE
