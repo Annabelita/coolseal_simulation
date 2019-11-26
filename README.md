@@ -56,7 +56,7 @@ Make sure to have all libraries install _(either through pip install or in insta
 * __E__ represents a black street than can be passed by agents.
 * __All other symbols will not create a valid area!!!__
 
-<img src="https://github.com/Annabelita/coolseal_simulation/tree/master/readmeImg/area.png" width="600">
+<img src="https://github.com/Annabelita/coolseal_simulation/blob/master/readmeImg/area.png" width="400">
 
 
 <br>
@@ -104,7 +104,7 @@ Documents ...
 
 Example: Best Path is marked green
 
-<img src="https://github.com/Annabelita/coolseal_simulation/blob/master/readmeImg/best_path.png" width="600">
+<img src="https://github.com/Annabelita/coolseal_simulation/blob/master/readmeImg/best_path.png" width="400">
 
 <br>
 <br>
@@ -123,7 +123,7 @@ Example: Best Path is marked green
 
 ## Comparison of SimpleWalk and RandomWalk
 
-<img src="https://github.com/Annabelita/coolseal_simulation/blob/master/readmeImg/algorithms.png" width="800">
+<img src="https://github.com/Annabelita/coolseal_simulation/blob/master/readmeImg/algorithms.png" width="500">
 
 <br>
 <br>
@@ -131,4 +131,5 @@ Example: Best Path is marked green
 
 ## Comparison of different amount of agents
 
-<img src="https://github.com/Annabelita/coolseal_simulation/blob/master/readmeImg/compariosn.png" width="800">
+<img src="https://github.com/Annabelita/coolseal_simulation/blob/master/readmeImg/comparison.png" width="500">
+
