@@ -118,6 +118,8 @@ Example: Best Path is marked green
 * Startpositions: __or == upper right__, __ul = lower left__, __ol = upper left__, __or = upper right__
 * _Example: SimpleWalk-1-or means the algorithm was SimpleWalk, there was 1 Agents and the start position was the upper right corner_
 
+<br>
+<br>
 
 # Further Analysis
 
