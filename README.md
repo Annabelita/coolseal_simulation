@@ -46,6 +46,8 @@ Make sure to have all libraries install _(either through pip install or in insta
 
 # Changing the Simulation Environment
 
+
+
 * Changing the area: Edit __area.txt__.
 * The field is limited to 34x26 fields (adapted to a window size of 1024x786px)
 * The visible are is limited to 34x26 fields. The other fields build the frame of the simulation world.
@@ -54,15 +56,22 @@ Make sure to have all libraries install _(either through pip install or in insta
 * __E__ represents a black street than can be passed by agents.
 * __All other symbols will not create a valid area!!!__
 
+<img src="https://github.com/Annabelita/coolseal_simulation/tree/master/readmeImg/area.png" width="600">
+
+
 <br>
 <br>
 
 # Log Files
 
+
 * Important: The Simulation must not be stopped manually => This will create infinit loops during the automatic analysis.
 * After termination the log is analysed automatically.
 * The Analysis report is saved in __sr/Results__.
 * Ever valid log.txt file ends with a row containing the word __"ENDE"__.
+
+
+<img src="https://github.com/Annabelita/coolseal_simulation/blob/master/readmeImg/log.png" width="500">
 
 
 <br>
@@ -93,6 +102,10 @@ Documents ...
 * ... a plot containing all paths. The best path is highlighted (see our research paper for the definition of the "best path")
 
 
+Example: Best Path is marked green
+
+<img src="https://github.com/Annabelita/coolseal_simulation/blob/master/readmeImg/best_path.png" width="600">
+
 <br>
 <br>
 
@@ -106,3 +119,16 @@ Documents ...
 * _Example: SimpleWalk-1-or means the algorithm was SimpleWalk, there was 1 Agents and the start position was the upper right corner_
 
 
+# Further Analysis
+
+## Comparison of SimpleWalk and RandomWalk
+
+<img src="https://github.com/Annabelita/coolseal_simulation/blob/master/readmeImg/algorithms.png" width="800">
+
+<br>
+<br>
+
+
+## Comparison of different amount of agents
+
+<img src="https://github.com/Annabelita/coolseal_simulation/blob/master/readmeImg/compariosn.png" width="800">
