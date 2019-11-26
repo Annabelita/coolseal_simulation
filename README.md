@@ -1,69 +1,108 @@
-# Voraussetzungen
+# Overview
+This project implements a simulation of simple reactive agents. We used swarm intelligence (Ant-Colony-Optimization) to solve a NP hard problem
+(given certain parameters). The full results are available in our research paper. 
 
-* Python 3.6 oder höher
+<br>
+<br>
+
+# Requisitions
+
+* Python 3.6 oder higher
 * Pycharm IDEA
-* pip install pygame --upgrade (In der Konsole oder bei Windows im Anaconda prompt)
-* pip install numpy --upgrade (In der Konsole oder bei Windows im Anaconda prompt)
-* Weitere notwendige Packages: matplotlib, reportlab
+* pip install pygame --upgrade 
+* pip install numpy --upgrade
+* Other packages: matplotlib, reportlab
 
-# Projektinstallation
+<br>
+<br>
 
-* Projekt aus Gitlab pullen (Über die Konsole oder direkt in Pycharm)
+# Project Installation
 
-# Benutzung
+```
+git clone
+```
+the project onto your desktop.
 
-* Pycharm starten
-* Zum Ausführen der Simulation muss __main.py__ (im src Ordner) ausgeführt werden.
-* Um verschiedene Simulationen/Optionen auszuprobieren können in __settings.py__ unter dem Punkt __Simulation Options__ verschiedene Parameter gesetzt werden (Beschreibung in settings.py vorhanden)
-* Während die Simulation arbeitet wird die Datei __log.txt__ mit logs gefüllt.
-* Nach Abschluss der Simulation wird eine PDF mit einer Zusammenfassung aller wichtigen logs und einem plot generiert.
-* Zum Beenden der Simulation kann der Knopf __Escape (ESC)__ gedrückt werden oder das Fenster oben rechts geschlossen werden.
-* Zum Pausieren der Simulation kann der Knopf __Space/Spacebar/Leertaste__ gedrückt werden, erneutes Drücken entfernt die Pause.
-* Um Häuser während der Simulation zu erstellen, muss ein Feld ausgewählt werden (Maus zum Feld navigieren) und die linke Maustaste gedrückt werden (1 Mal).
+Make sure to have all libraries install _(either through pip install or in install in your VM through Project Interpreter)_
 
-# Änderung der Simulationsumgebung
+<br>
+<br>
 
-* Um das Areal der Simulation zu ändern muss die __area.txt__ Datei verändert werden.
-* Das Gebiet ist auf 34x26 Felder begrent (Angepasst an eine Fenstergröße von 1024x768 pixel).
-* Das sichtbare Gebiet ist auf 32x24 Felder begrenzt, wobei am Rand jeweils Häuser/Startpositionen platziert sind um die Agenten im sichtbaren Gebiet zu halten.
-* Ein __H__ repräsentiert ein Haus (Blockade für Agenten).
-* Ein __A__ repräsentiert eine Startposition für Agenten (pro Startposition werden ANT_AMOUNT (siehe settings.py) viele Agenten erzeugt).
-* Ein __E__ repräsentiert eine schwarze Straße.
-* __Alle anderen Symbole erzeugen kein valides Areal.__
+# Starting the Simulation
+
+* Start PyCharm
+* Run __main.py__ in __src/main__.
+* Parameters can be changed in __settings.py__.
+* During the simulation a __log.txt__ file is created.
+* After succesful execute a PDF file is created, summarizing and automatically analysing the log file. This file also contains a summary plot.
+* To end the simulation press __Escape (ESC)__.
+* To pause the simulation press __Space/Spacebar__. 
+* To re-start the simulation press __Space/Spacebar__ again.
+* To create new houses during runtime __left-click__ with your cursor in a arbitrary street field (black field).
 
 
-# Log Dateien
+<br>
+<br>
 
-* Voraussetzungen: Die Simulation darf nicht manuell abgebrochen werden, da es ansonsten zur Fehlern (Endlosschleifen) bei der Auswertung kommen kann
-* Nach Beenden der zuvor definierten Simulationsdurchläufe, wird automatisch die log.txt Datei ausgewertet.
-* Die automatische Auswertung wird als PDF Datei im Ordner src/Results gespeichert.
-* Jede valide log.txt endet mit einer Zeile in der "ENDE" steht. 
+# Changing the Simulation Environment
+
+* Changing the area: Edit __area.txt__.
+* The field is limited to 34x26 fields (adapted to a window size of 1024x786px)
+* The visible are is limited to 34x26 fields. The other fields build the frame of the simulation world.
+*  __H__ represents a house. (Houses can't be passed by agents)
+* __A__ represents the start position of an agent. (for each start position **ANT_AMOUNT** (see settings.py) are created).
+* __E__ represents a black street than can be passed by agents.
+* __All other symbols will not create a valid area!!!__
+
+<br>
+<br>
+
+# Log Files
+
+* Important: The Simulation must not be stopped manually => This will create infinit loops during the automatic analysis.
+* After termination the log is analysed automatically.
+* The Analysis report is saved in __sr/Results__.
+* Ever valid log.txt file ends with a row containing the word __"ENDE"__.
+
+
+<br>
+<br>
 
 # Videos
-* Es stehen mehrere Videos für die verschiedenen Algorithmen im Ordner __videos__ zur Verfügung.
+* Simulation __videos__ are available in our research paper.
+
+<br>
+<br>
 
 ### log.txt
-Dokumentiert ...
-* ... Startparameter: Explorations-Algorithmus, Anzahl der Agenten
-* ... prozentualen Anteil der bereits gefärbten Fläche / pro 10 Zeitschritte
-* ... wenn eine Agent stirbt & Anzahl der verbleibenden Agenten
-* ... nach Simulations-Ende: Fläche komplett gefärbt (ja/nein). Dauer in Sekunden. 
+Documents....
+* ... start params: Exploration-Algorithm, Amount of agents
+* ... % of colored streets per 10 time frames.
+* ... dying agents and amount of remaining agents.
+* ... after simulation end: Area colored succesfully? (yes/no). Duration in seconds. 
 
-### Automatische Ausertung (PDF)
-Dokumentiert ...
-* ... Aggregation der maximalen Schrittanzahl & prozentuale Färbungsfläche pro Simulation
-* ... Ausgabe der maximalen Färbungsfläche und benötigter Schritte des besten Pfads
-* ... durchschnittliche Schrittanzahl & prozentuale Färbungsfläche aller Simulationen
-* ... einen Plot inklusive dem besten Pfad (Definition nach unserem Paper)
-* 
+<br>
+<br>
+
+### Automated Analysis (PDF)
+Documents ...
+* ... Aggregation of the maximum amount of steps as well as the percentage of colored streets for each simulation. 
+* ... Returns the maximum percentage of colored streets as well as how many steps the "best path" required.
+* ... average amount of steps.
+* ... average percentage of colored streets of all simulations. 
+* ... a plot containing all paths. The best path is highlighted (see our research paper for the definition of the "best path")
 
 
-# Ordnerstruktur
-* alle log.txt Dateien für verschiedene, beispielhafte Konfiguration liegen im Order src/Analysis/logFiles
-* alle aus den log.txt Daten erzeuten Plots liegen im Ordner src/Analysis/Plots
-* alle ausgewerteten PDFs liegen im Order src/Results
-* __Beim jedem Start der Simulation wird die log.txt und log.pdf überschrieben. Sollen die Auswertungen gespeichert werden, müssen diese
-beiden Datei vor dem erneuten Starten umbenannt werden!__
-* Die Dateinamen wurden nach folgenden Schema erstellt: ExplorationsAlgorithmus-AnzahlAgenten-Startposition(en) 
-* Startpositionen: _or = oben rechts, ul = unten links, ol = oben links, or = oben rechts_
-* Beispiel: SimpleWalk-1-or = Algorithmus SimpleWalk, 1 Agent, Startposition or
+<br>
+<br>
+
+# Folder structure
+* __src/Analysis/logFiles__: contains all __log.txt__ files
+* __src/Analysis/Plots__: contains all plots
+* __src/Results__: contains all PDF reports
+* At the beginning of each simulation the __log.txt__ file is overwritten. If you want to save this file please rename it before you re-run the simulation!
+* Naming of the logfile: __ExplorationAlgorithm-#Agents-Startposition__
+* Startpositions: __or == upper right__, __ul = lower left__, __ol = upper left__, __or = upper right__
+* _Example: SimpleWalk-1-or means the algorithm was SimpleWalk, there was 1 Agents and the start position was the upper right corner_
+
+
