@@ -125,6 +125,10 @@ Example: Best Path is marked green
 
 ## Comparison of SimpleWalk and RandomWalk
 
+x-axis: Amount of steps
+
+y-axis: percentage of colored streets
+
 <img src="https://github.com/Annabelita/coolseal_simulation/blob/master/readmeImg/algorithms.png" width="500">
 
 <br>
@@ -132,6 +136,10 @@ Example: Best Path is marked green
 
 
 ## Comparison of different amount of agents
+
+x-axis: Amount of steps
+
+y-axis: percentage of colored streets
 
 <img src="https://github.com/Annabelita/coolseal_simulation/blob/master/readmeImg/comparison.png" width="500">
 
