@@ -141,5 +141,5 @@ x-axis: Amount of steps
 
 y-axis: percentage of colored streets
 
-<img src="https://github.com/Annabelita/coolseal_simulation/blob/master/readmeImg/comparison.png" width="500">
+<img src="https://github.com/Annabelita/coolseal_simulation/blob/master/readmeImg/comparison.png" width="500"> 
 
